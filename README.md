@@ -7,6 +7,6 @@
 
 ## Now open a browser
 
-1. Go to https://localhost:8080/api/values
+1. Go to http://localhost:8080/api/values
 
 Voila!
